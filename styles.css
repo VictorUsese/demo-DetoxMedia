@@ -1,15 +1,13 @@
-nav-bar{
-    margin:auto
+#grid2{
+    text-align: center;
 }
 
-#img{
-    height: 500px;
+#img2{
+    border-radius: 50px;
+}
+
+#detoxImg{
     width: 100%;
-    border-radius: 0%;
-    background-image: url("./images/picture.jpg");
-}
-
-body{
-    padding: auto;
-    margin: auto;
+    height: 50px;
+    object-fit: cover
 }
